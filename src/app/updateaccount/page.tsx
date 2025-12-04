@@ -117,7 +117,7 @@ export default function UpdateAccountPage() {
       }
 
       setTimeout(() => {
-        router.push("/profile");
+        router.push("/");
       }, 1500);
 
     } catch (err) {
