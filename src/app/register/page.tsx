@@ -46,7 +46,7 @@ export default function RegisterPage() {
         return;
       }
 
-      router.push('/login');
+      router.push('/');
     } catch (err) {
       setError('Network error. Could not connect to the server.');
     } finally {
