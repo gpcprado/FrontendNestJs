@@ -171,7 +171,7 @@ export default function UpdateAccountPage() {
           
           <div className="relative mx-auto mb-4 h-20 w-20 bg-[#0c0a1e] border-4 border-blue-900 rounded-full flex items-center justify-center overflow-hidden shadow-xl">
                     <Image 
-                    src="/gweb.png"
+                    src="/GWEB.png"
                     alt="GRPWEB Logo"
                     width={50}
                     height={50}
