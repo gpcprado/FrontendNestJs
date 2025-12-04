@@ -311,7 +311,7 @@ export default function DashboardHome() {
                <span>Position Dashboard</span>
              </Button>
              <Button
-               onClick={() => window.location.href = 'tasks'}
+               onClick={() => window.location.href = 'creator'}
                className="bg-green-600 hover:bg-green-700 text-white py-3 px-4 rounded-lg flex items-center justify-center space-x-2"
              >
                <MessageSquare className="h-4 w-4" />
